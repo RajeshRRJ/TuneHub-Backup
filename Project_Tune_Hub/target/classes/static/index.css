@@ -1,0 +1,20 @@
+#loginbutton {
+  color: blue; /* Change text color */
+  text-decoration: none; /* Remove default underline */
+  font-weight: bold; /* Make text bold */
+  padding: 5px 10px; /* Add padding for better click area */
+  border: 1px solid blue; /* Add border */
+  border-radius: 5px; /* Add rounded corners */
+  background-color: lightblue; /* Change background color */
+}
+
+#loginbutton:hover {
+  background-color: skyblue; /* Change background color on hover */
+  color: white; /* Change text color on hover */
+}
+
+body{
+	background-color: green;
+	text-align: center;
+	margin-top: 150px;
+}
